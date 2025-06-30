@@ -40,7 +40,7 @@ pip install sec-head-check
 
 ### Option 2: Install from source
 ```bash
-git clone https://github.com/vulnuris/sec-head-check.git
+git clone https://github.com/mandarwaghmare997/sec-head-check.git
 cd sec-head-check
 pip install -r requirements.txt
 python setup.py install
