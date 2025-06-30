@@ -48,7 +48,7 @@ python setup.py install
 
 ### Option 3: Run directly
 ```bash
-git clone https://github.com/vulnuris/sec-head-check.git
+git clone https://github.com/mandarwaghmare997/sec-head-check.git
 cd sec-head-check
 pip install -r requirements.txt
 python src/sec_head_check.py --help
@@ -249,7 +249,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### Development Setup
 ```bash
-git clone https://github.com/vulnuris/sec-head-check.git
+git clone https://github.com/mandarwaghmare997/sec-head-check.git
 cd sec-head-check
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/vulnuris/sec-head-check/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/vulnuris/sec-head-check/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mandarwaghmare997/sec-head-check/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mandarwaghmare997/sec-head-check/discussions)
 - 📧 **Email**: contact@vulnuris.com
 - 🌐 **Website**: [vulnuris.com](https://vulnuris.com)
 
