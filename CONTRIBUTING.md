@@ -75,7 +75,7 @@ If you want to contribute new security headers, consider these:
 
 Feel free to reach out:
 - Create an issue for questions
-- Email: contact@vulnuris.com
+- Email: connect@vulnuris.com
 - Website: [vulnuris.com](https://vulnuris.com)
 
 Thank you for contributing! 🙏
